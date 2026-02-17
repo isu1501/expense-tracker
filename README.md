@@ -75,6 +75,14 @@ All data is stored locally in expenses.json:
 ]
 ```
 
+## 🌐 Project Page
+
+Project Repository URL:
+
+```bash 
+https://roadmap.sh/projects/expense-tracker
+```
+
 ## 🔮 Future Improvements
 
 - Update expense
